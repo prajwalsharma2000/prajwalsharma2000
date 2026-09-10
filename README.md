@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Product Engineer with 3+ years of experience building scalable SaaS platforms across HR-Tech and iPaaS domains using React, TypeScript, Node.js, and microservices architectures.
 
-I currently work at **Incruiter**, where I grew from Product Developer I to Product Developer II and now focus heavily on frontend systems, shared design libraries, and AI-powered hiring platforms used by enterprise customers.
+I currently work at **Incruiter**, where I grew from Product Developer I to Product Developer II and now focus heavily on designing and developing scalable systems, and AI-powered hiring platforms used by enterprise customers.
 
 I love building high-performance user interfaces, designing reusable component systems, and using AI-assisted developer tools to ship faster with cleaner code.
 
@@ -10,7 +10,7 @@ I love building high-performance user interfaces, designing reusable component s
 
 ## 🧠 What I Do
 
-- Build complex SaaS products end-to-end (Frontend-heavy Full Stack)
+- Build complex SaaS products end-to-end (Full Stack)
 - Design component libraries & micro-frontend systems
 - Improve UI performance & reliability at scale
 - Leverage AI tools for debugging, refactoring & testing
@@ -68,7 +68,7 @@ I see AI as a force multiplier for high-quality engineering — not a shortcut.
 
 ## 🌱 Currently Exploring
 
-- Frontend architecture at scale
+- System design architecture at scale
 - Extensive backend dev tools.
 - Design systems for large organizations
 - AI-driven developer tooling
